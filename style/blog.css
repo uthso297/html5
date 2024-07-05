@@ -1,0 +1,13 @@
+nav{
+    background-color: rgba(0, 0, 0, 0.264);
+}
+nav > ul > li{
+    display: inline;
+}
+nav li> a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    margin-top: 300px;
+}
